@@ -1,9 +1,12 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikcoskun&layout=compact&theme=dark">
 
-[![Discord][https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png]][https://discord.com/users/474537652943847444]
-[![Twitter][https://3.bp.blogspot.com/-NxouMmz2bOY/T8_ac97cesI/AAAAAAAAGg0/e3vY1_bdnbE/s320/Twitter+logo+2012.png]][https://twitter.com/itstarikcoskun]
-[![Steam][https://toppng.com/uploads/preview/steam-logo-png-steam-logo-black-11563631869uaboooqq1t.png]][https://steamcommunity.com/id/tarikcoskun]
-
+<a href="https://discord.com/users/474537652943847444">
+<img src="https://shields.io/badge/-Discord-8697f6?logo=discord&logoColor=fff">
+</a><a href="https://twitter.com/itstarikcoskun">
+<img src="https://shields.io/badge/-Twitter-009ded?logo=twitter&logoColor=fff">
+</a><a href="https://steamcommunity.com/id/tarikcoskun/">
+<img src="https://shields.io/badge/-Steam-161922?logo=steam&logoColor=fff">
+</a>
 
 ## 🔧 Technologies & Tools
 
