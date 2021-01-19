@@ -1,4 +1,5 @@
-## 👋 Welcome to my profile!
+### 👋 Welcome to my profile!
+Howdy, visitor! I'm Tarık, a young Front-End developer from Turkey. You can find me on the platforms below!
 
 <a href="https://discord.com/users/474537652943847444">
 <img src="https://shields.io/badge/-Discord-8697f6?logo=discord&logoColor=fff">
@@ -8,7 +9,7 @@
 <img src="https://shields.io/badge/-Steam-161922?logo=steam&logoColor=fff">
 </a>
 
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 
 ![](https://shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
 ![](https://shields.io/badge/-CSS-3595cf?logo=css3&logoColor=fff)
