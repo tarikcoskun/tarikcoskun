@@ -1,6 +1,6 @@
 ### 👋 Welcome to my profile!
 Howdy, visitor! I'm Tarık, a young Front-End developer from Turkey.  
-You can find me on the platforms below!
+You can find me on the platforms below and get more information from [my website](https://tarikcoskun.xyz/)!
 
 <a href="https://discord.com/users/474537652943847444">
 <img src="https://shields.io/badge/-Discord-8697f6?logo=discord&logoColor=fff">
