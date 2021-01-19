@@ -20,4 +20,4 @@
 ![](https://img.shields.io/static/v1?label=Tools&message=Visual%20Studio%20Code&logo=visual-studio-code&color=f9fafb&logoColor=3ea6eb)
 ![](https://img.shields.io/static/v1?label=Tools&message=Sass&logo=sass&color=f9fafb)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikcoskun&layout=compact&theme=dark">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarikcoskun&layout=compact&theme=dark)
