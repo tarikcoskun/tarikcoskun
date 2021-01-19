@@ -13,11 +13,10 @@ Howdy, visitor! I'm Tarık, a young Front-End developer from Turkey. You can fin
 
 ![](https://shields.io/badge/-HTML-323330?logo=html5&logoColor=f76649)
 ![](https://shields.io/badge/-CSS-323330?logo=css3&logoColor=3595cf)
-![](https://shields.io/badge/-JavaScript/Node.js-323330?logo=javascript&logoColor=efd81d)
+![](https://shields.io/badge/-JavaScript-323330?logo=javascript&logoColor=efd81d)
+![](https://shields.io/badge/-Node.js-323330?logo=node.js&logoColor=88c249)
 ![](https://shields.io/badge/-Vue.js-323330?logo=vue.js)
 ![](https://shields.io/badge/-Nuxt.js-323330?logo=nuxt.js)
 ![](https://shields.io/badge/-Tailwind-323330?logo=tailwind-css)
 ![](https://shields.io/badge/-VS%20Code-323330?logo=visual-studio-code&logoColor=3ea6eb)
 ![](https://shields.io/badge/-SASS-323330?logo=sass)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarikcoskun&layout=compact)
