@@ -1,4 +1,4 @@
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikcoskun&layout=compact&theme=dark">
+## 👋 Welcome to my profile!
 
 <a href="https://discord.com/users/474537652943847444">
 <img src="https://shields.io/badge/-Discord-8697f6?logo=discord&logoColor=fff">
@@ -19,3 +19,5 @@
 ![](https://img.shields.io/static/v1?label=Code&message=Tailwind%20CSS&logo=tailwind-css&color=f9fafb)
 ![](https://img.shields.io/static/v1?label=Tools&message=Visual%20Studio%20Code&logo=visual-studio-code&color=f9fafb&logoColor=3ea6eb)
 ![](https://img.shields.io/static/v1?label=Tools&message=Sass&logo=sass&color=f9fafb)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikcoskun&layout=compact&theme=dark">
