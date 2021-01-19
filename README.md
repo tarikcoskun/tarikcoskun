@@ -10,14 +10,13 @@
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/static/v1?label=Code&message=HTML&logo=html5&color=f9fafb&logoColor=e86829)
-![](https://img.shields.io/static/v1?label=Code&message=CSS&logo=css3&color=f9fafb&logoColor=3595cf)
-![](https://img.shields.io/static/v1?label=Code&message=JavaScript&logo=javascript&color=f9fafb)
-![](https://img.shields.io/static/v1?label=Code&message=Node.js&logo=node.js&color=f9fafb&logoColor=88c249)
-![](https://img.shields.io/static/v1?label=Code&message=Vue.js&logo=vue.js&color=f9fafb)
-![](https://img.shields.io/static/v1?label=Code&message=Nuxt.js&logo=nuxt.js&color=f9fafb)
-![](https://img.shields.io/static/v1?label=Code&message=Tailwind%20CSS&logo=tailwind-css&color=f9fafb)
-![](https://img.shields.io/static/v1?label=Tools&message=Visual%20Studio%20Code&logo=visual-studio-code&color=f9fafb&logoColor=3ea6eb)
-![](https://img.shields.io/static/v1?label=Tools&message=Sass&logo=sass&color=f9fafb)
+![](https://shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
+![](https://shields.io/badge/-CSS-3595cf?logo=css3&logoColor=fff)
+![](https://shields.io/badge/-JavaScript/Node.js-323330?logo=javascript&logoColor=efd81d)
+![](https://shields.io/badge/-Vue.js-323330?logo=vue.js)
+![](https://shields.io/badge/-Nuxt.js-323330?logo=nuxt.js)
+![](https://shields.io/badge/-Tailwind-323330?logo=tailwind-css)
+![](https://shields.io/badge/-VS%20Code-323330?logo=visual-studio-code&logoColor=3ea6eb)
+![](https://shields.io/badge/-SASS-323330?logo=sass)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarikcoskun&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarikcoskun&layout=compact)
