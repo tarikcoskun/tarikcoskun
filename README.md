@@ -11,8 +11,8 @@ Howdy, visitor! I'm Tarık, a young Front-End developer from Turkey. You can fin
 
 ### 🔧 Technologies & Tools
 
-![](https://shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
-![](https://shields.io/badge/-CSS-3595cf?logo=css3&logoColor=fff)
+![](https://shields.io/badge/-HTML-323330?logo=html5&logoColor=f76649)
+![](https://shields.io/badge/-CSS-323330?logo=css3&logoColor=3595cf)
 ![](https://shields.io/badge/-JavaScript/Node.js-323330?logo=javascript&logoColor=efd81d)
 ![](https://shields.io/badge/-Vue.js-323330?logo=vue.js)
 ![](https://shields.io/badge/-Nuxt.js-323330?logo=nuxt.js)
