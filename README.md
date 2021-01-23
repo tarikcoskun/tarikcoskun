@@ -19,5 +19,6 @@ You can find me on the platforms below and get more information from [my website
 ![](https://shields.io/badge/-Vue.js-323330?logo=vue.js)
 ![](https://shields.io/badge/-Nuxt.js-323330?logo=nuxt.js)
 ![](https://shields.io/badge/-Tailwind%20CSS-323330?logo=tailwind-css)
-![](https://shields.io/badge/-VS%20Code-323330?logo=visual-studio-code&logoColor=3ea6eb)
 ![](https://shields.io/badge/-Sass-323330?logo=sass)
+![](https://shields.io/badge/-Git-323330?logo=git)
+![](https://shields.io/badge/-VS%20Code-323330?logo=visual-studio-code&logoColor=3ea6eb)
