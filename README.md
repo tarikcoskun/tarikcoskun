@@ -10,7 +10,7 @@ You can find me on the platforms below and get more information from [my website
 <img src="https://shields.io/badge/-Steam-161922?logo=steam&logoColor=fff">
 </a>
 
-### 🔧 Technologies & Tools
+### 🔧 Technologies I Use
 
 ![](https://shields.io/badge/-HTML-323330?logo=html5&logoColor=f76649)
 ![](https://shields.io/badge/-CSS-323330?logo=css3&logoColor=3595cf)
@@ -21,4 +21,3 @@ You can find me on the platforms below and get more information from [my website
 ![](https://shields.io/badge/-Tailwind-323330?logo=tailwind-css)
 ![](https://shields.io/badge/-Sass-323330?logo=sass)
 ![](https://shields.io/badge/-Git-323330?logo=git)
-![](https://shields.io/badge/-VS%20Code-323330?logo=visual-studio-code&logoColor=3ea6eb)
