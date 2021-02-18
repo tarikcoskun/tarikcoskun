@@ -1,5 +1,5 @@
 ### 👋 Howdy, visitor!
-Welcome to my profile. I'm Tarık, a young Front-End developer from Turkey.  
+Welcome to my profile. I'm Tarık, a young front-end, kinda back-end developer from Turkey.  
 You can find me on the platforms below and get more information from [my website](https://tarikcoskun.xyz/)!
 
 <a href="https://discord.com/users/474537652943847444">
