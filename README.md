@@ -9,15 +9,3 @@ You can find me on the platforms below and get more information from [my website
 </a><a href="https://steamcommunity.com/id/tarikcoskun/">
 <img src="https://shields.io/badge/-Steam-161922?logo=steam&logoColor=fff">
 </a>
-
-### 🔧 Technologies I Use
-
-![](https://shields.io/badge/-HTML-323330?logo=html5&logoColor=f76649)
-![](https://shields.io/badge/-CSS-323330?logo=css3&logoColor=3595cf)
-![](https://shields.io/badge/-JavaScript-323330?logo=javascript&logoColor=efd81d)
-![](https://shields.io/badge/-Node.js-323330?logo=node.js&logoColor=88c249)
-![](https://shields.io/badge/-Vue.js-323330?logo=vue.js)
-![](https://shields.io/badge/-Nuxt.js-323330?logo=nuxt.js)
-![](https://shields.io/badge/-Tailwind-323330?logo=tailwind-css)
-![](https://shields.io/badge/-Sass-323330?logo=sass)
-![](https://shields.io/badge/-Git-323330?logo=git)
