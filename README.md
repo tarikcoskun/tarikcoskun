@@ -9,5 +9,5 @@ You can find me on the platforms below and get more information from [my website
 </a><a href="https://steamcommunity.com/id/tarikcoskun/">
 <img src="https://shields.io/badge/-Steam-161922?logo=steam&logoColor=fff">
 </a>
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tarikcoskun&theme=dark&show_icons=true&hide_border=true&bg_color=161b22)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tarikcoskun&theme=dark&show_icons=true&hide_border=true&bg_color=161b22&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
