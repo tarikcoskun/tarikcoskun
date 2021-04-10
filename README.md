@@ -13,4 +13,4 @@ You can find me on the platforms below and get more information from [my website
 <br />  
 <br />  
   
-<img src="https://github-readme-stats.vercel.app/api?username=tarikcoskun&theme=dark&show_icons=true&hide_border=true&bg_color=161b22&hide=issues&hide_title=true">
+<img src="https://github-readme-stats.vercel.app/api?username=tarikcoskun&theme=dark&show_icons=true&hide_border=true&bg_color=161b22&hide=issues&hide_title=true&border_radius=8">
