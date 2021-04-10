@@ -1,5 +1,8 @@
 ### 👋 Howdy, visitor!
-Welcome to my profile. I'm Tarık, a young front-end, kinda back-end developer from Turkey.  
+
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=tarikcoskun&theme=nord&show_icons=true&hide_border=true&bg_color=161b22&hide=issues&hide_title=true&border_radius=8">
+
+Welcome to my profile. I'm Tarık, a young Front-End developer from Turkey.  
 You can find me on the platforms below and get more information from [my website](https://tarikcoskun.xyz/)!
 
 <a href="https://discord.com/users/474537652943847444">
@@ -13,4 +16,3 @@ You can find me on the platforms below and get more information from [my website
 <br />  
 <br />  
   
-<img src="https://github-readme-stats.vercel.app/api?username=tarikcoskun&theme=nord&show_icons=true&hide_border=true&bg_color=161b22&hide=issues&hide_title=true&border_radius=8">
