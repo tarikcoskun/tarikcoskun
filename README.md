@@ -7,6 +7,5 @@ You can find me on the platforms below and get more information from [my website
 <a href="https://twitter.com/itstarikcoskun"><img src="https://shields.io/badge/-Twitter-009ded?logo=twitter&logoColor=fff" /></a>
 
 <br />
-<br />
 
 <img src="https://github-readme-stats.vercel.app/api?username=tarikcoskun&theme=nord&show_icons=true&hide_border=true&bg_color=161b22&hide=issues&hide_title=true&border_radius=8">
