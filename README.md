@@ -1,4 +1,4 @@
-## Tarık Coşkun
+### Tarık Coşkun
 Hello there, visitor! Welcome to my GitHub profile. I'm Tarık, a 15 years old front-end developer from Turkey. I'm currently working at <a href="https://temp.gg">Discord Templates</a> as a (Trial) Moderator and I have some experience of translating at projects you can see from my <a href="https://crowdin.com/profile/tarikcoskun">Crowdin profile</a>. I also love playing games like Minecraft, Terraria, Undertale, Half-Life etc.
 
 If you'd like to learn more about me, you can find my accounts on the platforms below and check my website for even more information! 
