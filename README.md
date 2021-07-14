@@ -8,3 +8,4 @@ If you'd like to learn more about me, you can find my accounts on the platforms 
 <br />
 
 <img src="https://github-readme-stats.vercel.app/api?username=tarikcoskun&theme=nord&show_icons=true&hide_border=true&bg_color=161b22&hide=issues&hide_title=true&border_radius=6"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikcoskun&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6">
